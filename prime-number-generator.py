@@ -1,6 +1,6 @@
 #find how many primes in a given range
-max=int(input("What's the last number?  "))
 min=int(input("What's the starting number? "))
+max=int(input("What's the last number?  "))
 if (min>max):
     print("Not valid.")
 else:
